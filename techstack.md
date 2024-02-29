@@ -3,8 +3,8 @@
 ## Tech Stack
 Clivern/gradle-plugin-starter is built on the following main stack:
 
-- [Gradle](https://www.gradle.org/) – Java Build Tools
 - [Groovy](https://groovy-lang.org/) – Languages
+- [Gradle](https://www.gradle.org/) – Java Build Tools
 - [Spock Framework](http://spockframework.org/) – Testing Frameworks
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
@@ -16,8 +16,8 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 Clivern/gradle-plugin-starter is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png' alt='Groovy'/> [Groovy](https://groovy-lang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/5548/UB74SoK2_400x400.png' alt='Spock Framework'/> [Spock Framework](http://spockframework.org/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Clivern/gradle-plugin-starter](https://github.com/Clivern/gradle-plugin-starter)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|7<br/>Tools used|01/05/24 <br/>Report generated|
+|7<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
